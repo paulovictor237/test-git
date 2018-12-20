@@ -1,18 +1,18 @@
+//PRINCIPAIS COMANDOS
 git int
 git add .
 git commit -m "primeiro commit"
-git endereço....
+git clone _ENDERECO_ (ENCONTRADO NO SITE)
 git push
 
 
 git checkout -b alteracao-de-cor (para criar uma brench)
 git add.
-git commit -m "criacao de um brench"
-
-
-git clone _ENDERECO_ (ENCONTRADO NO SITE)
+git commit -m "criacao de um branch"
 
 git pull (baixa as alterações feitas) 
+
+
 
 //CRIAR NOVOS ARQUIVOS 
 git init
