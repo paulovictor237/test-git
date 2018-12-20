@@ -6,8 +6,9 @@ git clone _ENDERECO_ (ENCONTRADO NO SITE)
 git push
 
 //CRIAR UM BRANCH
-$ git branch iss53 (cria o branch)
-$ git checkout iss53 (seleciona o branch)
+git branch iss53 (cria o branch)
+git checkout iss53 (seleciona o branch)
+git branch -d hotfix (deleta)
 
 
 git checkout -b alteracao-de-cor (para criar uma brench)
@@ -38,7 +39,6 @@ git push -u origin master
 //NOVAS ANOTAÇÕES
 git checkout -b 'hotfix'
 git push --set-upstream origin hotfix
-
 
 //MERGE O NOVO BRANCH
 git checkout master
