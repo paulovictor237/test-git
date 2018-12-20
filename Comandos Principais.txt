@@ -9,7 +9,9 @@ git push
 git checkout -b alteracao-de-cor (para criar uma brench)
 git add.
 git commit -m "criacao de um branch"
+git push
 
+//BAIXAR ATUALIZACOES
 git pull (baixa as alterações feitas) 
 
 
