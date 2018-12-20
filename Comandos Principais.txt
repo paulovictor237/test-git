@@ -1,0 +1,15 @@
+git int
+git add .
+git commit -m "primeiro commit"
+git endereço....
+git push
+
+
+git checkout -b alteracao-de-cor (para criar uma brench)
+git add.
+git commit -m "criacao de um brench"
+
+
+git clone _ENDERECO_ (ENCONTRADO NO SITE)
+
+git pull (baixa as alterações feitas) 
