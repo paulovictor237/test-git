@@ -1,45 +1,20 @@
-//PRINCIPAIS COMANDOS
-git int
-git add .
-git commit -m "primeiro commit"
-git clone _ENDERECO_ (ENCONTRADO NO SITE)
-git push
+//CRIAR NOVOS ARQUIVOS 
+git init
+git add README.md
+git commit -m "first commit"
+==git clone _ENDERECO_ (ENCONTRADO NO SITE)
+==git remote add origin https://github.com/paulovictor237/test-git.git
+git push -u origin master
 
 //CRIAR UM BRANCH
 git branch iss53 (cria o branch)
 git checkout iss53 (seleciona o branch)
 git branch -d hotfix (deleta)
 
-
-git checkout -b alteracao-de-cor (para criar uma brench)
-git add.
-git commit -m "criacao de um branch"
-git push
-
-//BAIXAR ATUALIZACOES
-git pull (baixa as alterações feitas) 
-
-
-git push --set-upstream origin criar-um-branch
-
-
-
-//CRIAR NOVOS ARQUIVOS 
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/paulovictor237/test-git.git
-git push -u origin master
-
-//ATUALIZAR
-git remote add origin https://github.com/paulovictor237/test-git.git
-git push -u origin master
-
-
-//NOVAS ANOTAÇÕES
-git checkout -b 'hotfix'
-git push --set-upstream origin hotfix
-
 //MERGE O NOVO BRANCH
 git checkout master
 git merge hotfix
+
+//BAIXAR ATUALIZACOES
+git pull (baixa as alterações feitas) 
+git push --set-upstream origin criar-um-branch
