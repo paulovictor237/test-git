@@ -24,3 +24,7 @@ git push -u origin master
 //ATUALIZAR
 git remote add origin https://github.com/paulovictor237/test-git.git
 git push -u origin master
+
+
+//NOVAS ANOTAÇÕES
+git checkout -b 'hotfix'
