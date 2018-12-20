@@ -15,6 +15,9 @@ git push
 git pull (baixa as alterações feitas) 
 
 
+git push --set-upstream origin criar-um-branch
+
+
 
 //CRIAR NOVOS ARQUIVOS 
 git init
