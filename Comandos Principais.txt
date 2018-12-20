@@ -13,3 +13,10 @@ git commit -m "criacao de um brench"
 git clone _ENDERECO_ (ENCONTRADO NO SITE)
 
 git pull (baixa as alterações feitas) 
+
+//CRIAR NOVOS ARQUIVOS 
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/paulovictor237/test-git.git
+git push -u origin master
