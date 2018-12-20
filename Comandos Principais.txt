@@ -28,3 +28,9 @@ git push -u origin master
 
 //NOVAS ANOTAÇÕES
 git checkout -b 'hotfix'
+git push --set-upstream origin hotfix
+
+
+//MERGE O NOVO BRANCH
+git checkout master
+git merge hotfix
