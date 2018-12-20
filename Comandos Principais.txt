@@ -5,7 +5,7 @@ git commit -m "primeiro commit"
 git clone _ENDERECO_ (ENCONTRADO NO SITE)
 git push
 
-
+//CRIAR UM BRANCH
 git checkout -b alteracao-de-cor (para criar uma brench)
 git add.
 git commit -m "criacao de um branch"
