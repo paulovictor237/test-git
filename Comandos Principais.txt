@@ -1,18 +1,27 @@
+//PRINCIPAIS COMANDOS
 git int
 git add .
 git commit -m "primeiro commit"
-git endereço....
+git clone _ENDERECO_ (ENCONTRADO NO SITE)
 git push
+
+//CRIAR UM BRANCH
+$ git branch iss53 (cria o branch)
+$ git checkout iss53 (seleciona o branch)
 
 
 git checkout -b alteracao-de-cor (para criar uma brench)
 git add.
-git commit -m "criacao de um brench"
+git commit -m "criacao de um branch"
+git push
 
-
-git clone _ENDERECO_ (ENCONTRADO NO SITE)
-
+//BAIXAR ATUALIZACOES
 git pull (baixa as alterações feitas) 
+
+
+git push --set-upstream origin criar-um-branch
+
+
 
 //CRIAR NOVOS ARQUIVOS 
 git init
