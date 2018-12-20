@@ -1,6 +1,7 @@
 //CRIAR NOVOS ARQUIVOS 
 git init
-git add README.md
+git add .
+git status
 git commit -m "first commit"
 ==git clone _ENDERECO_ (ENCONTRADO NO SITE)
 ==git remote add origin https://github.com/paulovictor237/test-git.git
